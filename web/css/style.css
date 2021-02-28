@@ -1,0 +1,95 @@
+.grand-title {
+    color: tomato;
+    letter-spacing: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.p-pres {
+    letter-spacing: 3 px;
+    font-size: large;
+}
+
+.contenu {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.menu {
+    font-size: x-large;
+}
+
+.marge-top {
+    margin-top: 50px;
+}
+.name{
+   font-weight: 500;
+}
+
+.pipe {
+    color: rgb(113, 169, 214);
+    letter-spacing: 1px;
+    box-shadow: .2rem .2rem .1rem rgba(129, 126, 129, 0.7);
+    
+}
+
+a {
+    color: rgb(56, 19, 116)
+}
+
+a:hover {
+    background-color: #91bed84d;
+    box-shadow: .5rem .5rem .1rem rgba(129, 126, 129, 0.7);
+    font-weight: 700;
+}
+.title{
+    color:blue;
+}
+
+.head-table-user {
+    background-color: aliceblue;
+    color: black;
+}
+
+.btn-valider {
+    color: white;
+    background-color: rgb(111, 181, 221);
+}
+
+.btn-annuler {
+    color: white;
+    background-color: rgb(247, 131, 131);
+}
+
+.my-label {
+    color: gray;
+}
+
+.content-login {
+    margin: auto;
+    width: 35%;
+}
+
+.shadow-card {
+    box-shadow: 0 19px 39px rgba(0, 0, 0, 0.30);
+}
+
+.card-title-perso {
+    color: white;
+}
+
+.card-header-back {
+    background-color: rgb(38, 12, 155) !important
+}
+
+
+.card-perso-box{
+    
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+}
+.my-label{
+    color :grey;
+    letter-spacing: 2px;
+}
